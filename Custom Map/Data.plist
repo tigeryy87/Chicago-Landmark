@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>region</key>
+	<array>
+		<real>41.948287</real>
+		<real>-87.655697</real>
+	</array>
+	<key>places</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Wrigley Field</string>
+			<key>description</key>
+			<string>Ivy-covered walls &amp; manual scoreboard add retro charm to 2nd oldest baseball stadium in the majors.</string>
+			<key>lat</key>
+			<real>41.948287</real>
+			<key>long</key>
+			<real>-87.655697</real>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>UChicago</string>
+			<key>description</key>
+			<string>UChicago is a top, prestigious research university known for its rigorous academics and innovative approach to education.</string>
+			<key>lat</key>
+			<real>41.78865120245953</real>
+			<key>long</key>
+			<real>-87.59870825968984</real>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>John Crerar Library </string>
+			<key>description</key>
+			<string>A place to learn all computer science knowledge!</string>
+			<key>lat</key>
+			<real>41.79070818411266</real>
+			<key>long</key>
+			<real>-87.60253158332975</real>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Willis Tower</string>
+			<key>description</key>
+			<string>Tallest building in Chicago, formerly known as Sears Tower.</string>
+			<key>lat</key>
+			<real>41.87909074545093</real>
+			<key>long</key>
+			<real>-87.63591229700125</real>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>The Art Institute of Chicago</string>
+			<key>description</key>
+			<string>The Art Institute of Chicago is a world-renowned museum featuring a vast collection of art, from ancient to contemporary.</string>
+			<key>lat</key>
+			<real>41.87974424200115</real>
+			<key>long</key>
+			<real>-87.62369184385363</real>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Shedd Aquarium</string>
+			<key>description</key>
+			<string>State-of-the-art indoor aquarium, famous for its variety of habitats &amp; views of Lake Michigan.</string>
+			<key>lat</key>
+			<real>41.8676</real>
+			<key>long</key>
+			<real>-87.614</real>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chicago History Museum</string>
+			<key>description</key>
+			<string>Explore Chicago&apos;s storied past</string>
+			<key>lat</key>
+			<real>41.912184</real>
+			<key>long</key>
+			<real>-87.63166</real>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Navy Pier</string>
+			<key>description</key>
+			<string>A small passenger port and a very famous tourist attraction located in the central part of Chicago, the largest city of Illinois. It is a very popular entertainment facility visited by hundreds of people, both local residents and tourists.</string>
+			<key>lat</key>
+			<real>41.892654</real>
+			<key>long</key>
+			<real>-87.610168</real>
+			<key>type</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+</dict>
+</plist>
