@@ -1,6 +1,8 @@
 # Custom Chicago Map!
 # Created by Tiger Chen (Yin-Lin)
 
+https://user-images.githubusercontent.com/24702429/228666326-01d89fc1-5604-4e6d-b528-418ae8b60ab4.mp4
+
 ## Successfully create a application called "Custom Map!" that designed for user to add their favorite places in Chicago
 
 ## References:
